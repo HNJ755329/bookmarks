@@ -304,12 +304,11 @@
 
 # Bitcoin
 
-- [unconfirmed transactions](https://blockchain.info/ja/unconfirmed-transactions) 
 - [Bitcoin - Open source P2P money](https://bitcoin.org/en/) 
+- [unconfirmed transactions](https://blockchain.info/ja/unconfirmed-transactions) 
 - [Ethereum BlockChain Explorer and Search](https://etherscan.io/) 
 - [TREZOR](https://trezor.io/) 
 - [ビットコインの仕組み](https://bitcoin.peryaudo.org/index.html) 
-- [Bitcoin ClockUpMemo](https://bitcoin.clock-up.jp/) 
 - [複数のBitcoinアドレスを確認する残高](https://awebanalysis.com/ja/bitcoin-multiple-address-check-balance/)
 
 ## 分析・情報
@@ -368,6 +367,7 @@
 
 - [数学やプログラミングや映画など](https://math-it.hatenablog.com/) 
 - [分析のおはなし。 | アメリカへの交換留学とノルウェーへの大学院留学を経た後に、データサイエンティストを目指そうとする人の戯れ言。](http://www.housecat442.com/) 
+- [KYの雑記ログ](https://crossacross.org/ky/)
 - [The Ultimate Guide to Learning Full Stack Web Development in 6 months, for $30](https://codeburst.io/the-ultimate-guide-to-learning-full-stack-web-development-in-6-months-for-30-72b3854a7458) 
 - [Things I Learnt The Hard Way (in 30 Years of Software Development)](https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/) 
 - [はてなブックマーク](https://b.hatena.ne.jp/hotentry/it)
