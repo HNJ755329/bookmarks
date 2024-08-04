@@ -12,14 +12,12 @@
 - [LeetCode](https://leetcode.com/)
 
 ### 競技プログラミング支援サイト
-
 - [Atcoder Problems](https://kenkoooo.com/atcoder#/table/)
 - [AOJ/AtCoder-JOI](https://joi.goodbaton.com/)
 - [AOJ-ICPC](http://aoj-icpc.ichyo.jp/)
 - [Library Checker](https://judge.yosupo.jp/) 
 
 ## Library
-
 - [ac-library](https://github.com/atcoder/ac-library)
 - [Luzhiled's Library](https://ei1333.github.io/library/)
 - [Luzhiled's memo](https://ei1333.github.io/luzhiled/)
@@ -37,7 +35,6 @@
 - [handbook of geometory for competitive programming](https://vlecomte.github.io/cp-geo.pdf) pdf file
 
 ## Hint,問題解説,コラム,便利サイト
-
 - [OEIS](https://oeis.org/) これをつかって答えを求める問題も多数．
 - [Wolfram Alpha](https://www.wolframalpha.com/) 簡単な計算を行うのに便利．
 - [組合せ最適化におけるマトロイドの役割](http://dopal.cs.uec.ac.jp/okamotoy/lect/2015/matroid/)
@@ -54,11 +51,11 @@
 - [TERRYのブログ](https://www.terry-u16.net/)
 
 ## Capture The Flag
-
 - [ksnctf](https://ksnctf.sweetduet.info/)
 - [CTF Pwn - A painter and a black cat](https://raintrees.net/projects/a-painter-and-a-black-cat/wiki/CTF_Pwn)
 
 # Mathematics(数学)
+- [nLab](https://ncatlab.org/nlab/show/HomePage)
 - [zbMATH](https://zbmath.org/)
 - [List of conjectures](https://en.wikipedia.org/wiki/List_of_conjectures)
 - [Top arXiv papers](https://scirate.com/)
@@ -70,13 +67,16 @@
 - [保険フォーラム|OLIS](http://www.olis.or.jp/hfea/program/index.html)
 
 # Pythics(物理)
-
 - [理論物理学教程(Landau and Lifshitz)](https://ja.wikipedia.org/wiki/%E7%90%86%E8%AB%96%E7%89%A9%E7%90%86%E5%AD%A6%E6%95%99%E7%A8%8B)
 - [List of quantum logic gates](https://en.wikipedia.org/wiki/List_of_quantum_logic_gates)
+- [Ryusuke Jinno&#39;s homepage(量子力学等)](https://jinno.sakura.ne.jp/jinno/m.html)
 
 # Programming
 - [7 Must Know Software Design Patterns](https://levelup.gitconnected.com/7-must-know-software-design-patterns-3ef883ddb53e)
 - [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2017/)
+- [Essays(Paul Graham)](https://www.paulgraham.com/articles.html)
+- [abseil / Software Engineering at Google](https://abseil.io/resources/swe-book)
+- [[2407.08090] Functional Programming in Learning Electromagnetic Theory](https://arxiv.org/abs/2407.08090)
 
 ## C++
 - [C++ Tips of the Week](https://abseil.io/tips/)
@@ -93,6 +93,7 @@
 - [Rustのproconioでインタラクティブ問題を解く](https://scrapbox.io/magurofly/Rust%E3%81%AEproconio%E3%81%A7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E5%95%8F%E9%A1%8C%E3%82%92%E8%A7%A3%E3%81%8F)
 - [【競プロ】Python使いがRustを「完全に理解する」までのTips](https://qiita.com/toast-uz/items/0c2a1a30cf2c79d76a3f)
 - [Rust を始めるための資料集 - Don't Repeat Yourself](https://blog-dry.com/entry/2021/01/23/141936) 
+- [Introduction - Rust Snippets for Competitive Programming](https://bamgoesn.github.io/rust-ps-md/intro.html)
 
 ## Haskell
 - [モナドのすべて](https://www.sampou.org/haskell/a-a-monads/html/)
@@ -103,17 +104,16 @@
 
 # 開発環境
 ## IDE
-
 - [onlineIDE](https://ideone.com/) 
 - [Google Codelabs](https://codelabs.developers.google.com/) 
 - [Wandbox](https://wandbox.org/) 
 - [Free Online IDE and Terminal](https://www.tutorialspoint.com/codingground.htm) 
 - [Compiler Explorer](https://godbolt.org/) 
-
 - [The Ultimate Guide to Learning Full Stack Web Development in 6 months, for $30](https://codeburst.io/the-ultimate-guide-to-learning-full-stack-web-development-in-6-months-for-30-72b3854a7458) 
+- [Language Servers](https://microsoft.github.io/language-server-protocol/implementors/servers/)
+- [Langserver.org](https://langserver.org/)
 
 ## Docker
-
 - [Composerize-Docker](https://composerize.com/) 
 - [DockStation - Developing with Docker has never been so easy and convenient](https://dockstation.io/) 
 - [Docker Hub](https://hub.docker.com/search/?q=&type=image) 
@@ -121,7 +121,6 @@
 - [veggiemonk/awesome-docker: A curated list of Docker resources and projects](https://github.com/veggiemonk/awesome-docker)
 
 ## Dotfiles
-
 - [ohmyzsh/ohmyzsh Wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)
 - [fishとfzfはじめて 豊かになりました](https://speakerdeck.com/fruitriin/fish-and-fzf-is-good?slide=21) 
 - [Zsh の起動時間を短縮する](https://chocoby.com/blog/2021/05/05/speed-up-zsh-startup-time)
@@ -167,17 +166,13 @@
 - [Deploying React apps to GitHub Pages](https://blog.logrocket.com/deploying-react-apps-github-pages/)
 
 ## Registor
-
 - [お名前.com Navi](https://navi.onamae.com/) 
 - [WebARENA](https://vpscloud2.arena.ne.jp/session/new) 
 - [Webarena契約者コントロールパネル](https://arena.secure.customer.ne.jp/account/login) 
 - [mapshaper](https://mapshaper.org/) editor for map data
 - [GoogleAnalytics](https://analytics.google.com/analytics/web/#/)
 
-
-
 ## Django
-
 - [Django books](https://books.agiliq.com/en/latest/) 
 - [Djangoでのキャッシュバスティング](https://blog.xoxzo.com/ja/2018/08/22/cache-busting-in-django/) 
 - [Djangoで簡単なショッピングサイトを作る(Stripe決済)](https://narito.ninja/blog/detail/63/) 
@@ -186,7 +181,6 @@
 - [Workshop: Test-Driven Web Development with Django — Test-Driven Django Development v3.0 documentation](https://test-driven-django-development.readthedocs.io/en/latest/index.html) 
 - [Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html)
 - [Node.js vs. Django:  Is JavaScript Better Than Python?](https://dzone.com/articles/nodejs-vs-djangois-javascript-better-than-python) 
-
 
 # Database
 
@@ -200,6 +194,7 @@
 ## AWS
 - [AWSによるクラウド入門](https://tomomano.gitlab.io/intro-aws/)
 - [AWS Cloud Design Pattern](https://aws.clouddesignpattern.org/index.php/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)
+- [ざっくりAWS - AWSの料金を日本円でざっくり](https://aws-rough.cc/)
 <!--## コンピューティング (EC2, Lambdaなど)-->
 <!--## ストレージ (S3, EBSなど)-->
 <!--## データベース (RDS, DynamoDBなど)-->
@@ -265,6 +260,8 @@
 - [Emotion recognition with TensorFlow.js](https://emotion-recognition-tfjs.herokuapp.com/) 
 - [fast.ai · Making neural nets uncool again](https://www.fast.ai/) 
 - [OpenAI](https://openai.com/) 
+- [Claude](https://claude.ai/onboarding?returnTo=%2F%3F)
+- [ChatGPT](https://chatgpt.com/)
 - [Automated Machine Learning for Predictive Modeling](https://www.datarobot.com/) 
 - [COTOHA API](https://api.ce-cotoha.com/contents/index.html) 
 - [Google AI](https://ai.google/) 
@@ -294,6 +291,13 @@
 - [Linux標準教科書](https://linuc.org/textbooks/linux/)
 - [Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 - [Linuxゲリラ戦記](http://www.garunimo.com/program/linux/) 
+- [Arch User Repository - ArchWiki](https://wiki.archlinux.org/title/Arch_User_Repository)
+- [General recommendations - ArchWiki](https://wiki.archlinux.org/title/general_recommendations)
+- [Sway - ArchWiki](https://wiki.archlinux.org/title/sway)
+- [The Linux Documentation Project](https://tldp.org/)
+- [Useful add ons for sway · swaywm/sway Wiki](https://github.com/swaywm/sway/wiki/Useful-add-ons-for-sway)
+- [最高のターミナル環境を手に入れろ！WezTermに入門してみた。 | DevelopersIO](https://dev.classmethod.jp/articles/wezterm-get-started/)
+- [Hacker News](https://news.ycombinator.com/)
 
 ### Opensource
 - [オープンソース（OSS）紹介](https://openstandia.jp/oss_info/)
@@ -307,9 +311,25 @@
 - [Bitcoin - Open source P2P money](https://bitcoin.org/en/) 
 - [unconfirmed transactions](https://blockchain.info/ja/unconfirmed-transactions) 
 - [Ethereum BlockChain Explorer and Search](https://etherscan.io/) 
-- [TREZOR](https://trezor.io/) 
 - [ビットコインの仕組み](https://bitcoin.peryaudo.org/index.html) 
 - [複数のBitcoinアドレスを確認する残高](https://awebanalysis.com/ja/bitcoin-multiple-address-check-balance/)
+
+## 取引所
+- [GMOコイン](https://coin.z.com/jp/index.html)
+- [Binance](https://www.binance.com/)
+- [Poloniex](https://poloniex.com/)
+- [Bittrex.com](https://bittrex.com/)
+- [Bitfinex](https://www.bitfinex.com/trading)
+- [ホーム｜bitbankトレード](https://bitbanktrade.jp/home/index)
+- [bitFlyer](https://bitflyer.jp/ex/Home)
+- [Zaif Exchange](https://zaif.jp/)
+- [HitBTC](https://hitbtc.com/)
+- [YoBit.Net](https://yobit.net/en/)
+- [BitMEX](https://www.bitmex.com/app/trade/XBTUSD)
+- [Kucoin](https://www.kucoin.com/#/)
+- [Bibox](https://www.bibox.com/)
+- [BigONE](https://big.one/)
+- [ジェネシス・マイニング](https://www.genesis-mining.com/)
 
 ## 分析・情報
 
@@ -336,7 +356,18 @@
 # job
 - [業務請負とは？](https://bizhint.jp/keyword/130994)
 
+## 転職サイト
+- [キャリコネ](http://careerconnection.jp/)
+- [My News Japan](http://www.mynewsjapan.com/)
+- [転職会議](http://jobtalk.jp/)
+- [Vorkers](http://www.vorkers.com/)
+- [意外と知られていない就活にも使える転職サイト5選 | 賢者の就活](http://kenjasyukatsu.com/archives/169)
+
 # 学習リソース
+
+## English
+- [Khan Academy | Free Online Courses, Lessons &amp; Practice](https://www.khanacademy.org/)
+- [Listening - Test-English](https://test-english.com/listening/)
 
 ## document
 - [DevDocs](https://devdocs.io/)
@@ -364,7 +395,6 @@
 - [Product Hunt](https://www.producthunt.com/) 
 
 ## blog
-
 - [数学やプログラミングや映画など](https://math-it.hatenablog.com/) 
 - [分析のおはなし。 | アメリカへの交換留学とノルウェーへの大学院留学を経た後に、データサイエンティストを目指そうとする人の戯れ言。](http://www.housecat442.com/) 
 - [KYの雑記ログ](https://crossacross.org/ky/)
@@ -375,7 +405,6 @@
 - [Seesaa](http://blog.seesaa.jp/)
 
 ### 投資ブログ等
-
 - [地域の住まいづくりをお手伝い ～長期優良住宅（木造）補助実績中小工務店の検索サイト～](http://builder.chiiki-grn.jp/)
 - [地域型住宅グリーン化事業（評価）](http://chiiki-grn.jp/)
 - [三菱サラリーマンが株式投資でセミリタイア目指してみた](https://freetonsha.com/)
@@ -385,9 +414,9 @@
 - [ヤフオクで軍資金を作って裁判所で競売物件を購入、賃貸中。激安物件で高利回り、ローン要らずの不動産投資](https://kanato3.com/) 
 - [加藤ひろゆきさんの不動産投資コラム一覧｜不動産投資の健美家](https://www.kenbiya.com/ar/cl/cashflow101/) 
 - [【HowMa ハウマ】AIが不動産を無料で即査定](https://www.how-ma.com/)
+- [ヨギー金融道：シンガポールのとある日本人ヘッジファンド運用者のつぶやき: 新卒の面接の作法：「金融専攻です」と言うのは不利。](http://anonymousinvestortokyo.blogspot.jp/2009/11/blog-post_28.html)
 
 ## Data
-
 - [IMFData](https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/OEMDC/ADVEC/WEOWORLD) 
 - [RESAS 地域経済分析システム](https://resas.go.jp/#/13/13101) 
 - [地理院地図｜国土地理院](https://maps.gsi.go.jp/#5/36.104611/140.084556/&base=std&ls=std&disp=1&vs=c1j0h0k0l0u0t0z0r0s0m0f1) 
@@ -401,7 +430,6 @@
 - [官報決算データベース](https://catr.jp/)
 
 ## シンクタンク
-
 - [NRI 野村総合研究所](https://www.nri.com/jp/) 
 - [日本総研](https://www.jri.co.jp/) 
 - [大和総研グループ](http://www.dir.co.jp/) 
@@ -410,4 +438,38 @@
 - [TKC経営指標（BAST）](https://www.tkc.jp/tkcnf/bast)
 - [統計データサイト14選](https://liskul.com/wm-statistics-8577)
 
-## その他
+# My Preference
+
+## Money
+- [My Y!mobile](https://my.ymobile.jp/muc/d/top)
+- [家計簿アプリ 資産管理 「マネーフォワード」](https://moneyforward.com/)
+- [三井住友銀行](http://www.smbc.co.jp/)
+- [P-one Wiz](https://www.pocketcard.co.jp/)
+- [三井住友VISAカード](https://www.smbc-card.com/)
+
+## FX
+- [XM - 会員ページ](https://my.xmtrading.com/jp/member)
+- [GMOクリック証券](https://sec-sso.click-sec.com/loginweb/)
+
+## Registor
+- [Android デバイス マネージャー](https://www.google.com/android/devicemanager)
+
+## online storage
+- [Google Drive](https://drive.google.com/?tab=oo&authuser=0#my-drive)
+- [CamScanner](https://www.camscanner.com/)
+- [Dropbox](https://www.dropbox.com/ja/)
+
+## Docs
+- [Library Genesis](http://libgen.rs/#)
+- [Library Genesis Lifshitz Landau](https://libgen.rs/search.php?req=+Lifshitz+Landau&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+- [Library Genesis-very short introduction](http://libgen.rs/search.php?req=a+very+short+introduction&open=0&res=25&view=simple&phrase=1&column=def)
+- [数理科学 : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/mathmath_202103/)
+- [Free eBooks | Project Gutenberg](https://www.gutenberg.org/)
+- [50,000+ Free eBooks in the Genres you Love | Manybooks](https://manybooks.net/)
+- [Free Books : Download &amp; Streaming : eBooks and Texts : Internet Archive](https://archive.org/details/texts)
+- [Sci-Hub: breaking academic paywalls since 2011](https://sci-hub.se/)
+
+## Others
+- [【電柱編】引越しにおけるネット回線ガチャと開通待ちで勝利するための知見まとめ 2024春 - はげあたま.org](https://www.hageatama.org/20240310/1710057015)
+- [【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note](https://archive.md/2024.05.09-161841/https://note.com/preview/nba450e539748#selection-1035.8-1045.17)
+- [Browse Fonts - Google Fonts](https://fonts.google.com/)
